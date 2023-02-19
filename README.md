@@ -1,5 +1,10 @@
 # Gestiunea unui sistem bancar (SGBD/DBMS)
 
+## Diagram (English)
+The diagram entities and relationships are properly explained in romanian inside the PDF.
+
+![DatabaseDiagram](https://github.com/DragosGhinea/BankSystem_SGBD_DBMS/blob/main/ER_Diagram.svg)
+
 ## Implementare
 
 - În fișierul PDF găsiți tot proiectul, în special **descrierea bazei de date**, **diagrama ER**, **diagrama conceptuala**.
